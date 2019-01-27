@@ -1,4 +1,5 @@
 #Eat Da Burger
+Browser version Heroku :https://blooming-island-33968.herokuapp.com/
 
 Live version: https://eatdaburger-54978.herokuapp.com/
 <hr>
